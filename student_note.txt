@@ -1,0 +1,11 @@
+Name: Dhalee MD Srijon
+Lab: StegoGuard Image Forensics
+Date completed: November 26, 2026
+
+Optional challenge: Added this student note.
+
+What I did:
+- Ran clean, suspicious, and clean scans with GitHub Actions
+- Added the keyword "confidential" to scanner.py
+- Changed the hidden message in make_demo_image.py to CONFIDENTIAL
+- Confirmed StegoGuard detected the new keyword (73 bytes after PNG IEND marker)
