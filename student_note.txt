@@ -9,3 +9,4 @@ What I did:
 - Added the keyword "confidential" to scanner.py
 - Changed the hidden message in make_demo_image.py to CONFIDENTIAL
 - Confirmed StegoGuard detected the new keyword (73 bytes after PNG IEND marker)
+- The images were automatically deleted after the scanner scanned in the github actions
